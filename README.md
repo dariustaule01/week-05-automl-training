@@ -44,13 +44,3 @@ week-05-automl-training/
     ├── confusion-matrix.md
     └── teachable_machine_metrics_final.xlsx
 ```
-
-## Screenshot Note
-
-Before final submission, add the actual Teachable Machine screenshots to `teachable-machine/screenshots/`:
-
-- `training-interface.png`
-- `test-result-correct.png`
-- `test-result-low-confidence.png`
-
-The workbook showed no incorrect predictions, so a low-confidence correct prediction can replace the incorrect-result screenshot.
