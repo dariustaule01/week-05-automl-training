@@ -1,0 +1,11 @@
+#,File Name,Actual Class,Predicted Class,Confidence,Correct?
+1,test_phish_01.png,Phishing,Phishing,1.00,Yes
+2,test_phish_02.png,Phishing,Phishing,0.96,Yes
+3,test_phish_03.png,Phishing,Phishing,1.00,Yes
+4,test_phish_04.png,Phishing,Phishing,0.99,Yes
+5,test_phish_05.png,Phishing,Phishing,0.94,Yes
+6,test_legit_01.png,Legitimate,Legitimate,1.00,Yes
+7,test_legit_02.png,Legitimate,Legitimate,1.00,Yes
+8,test_legit_03.png,Legitimate,Legitimate,1.00,Yes
+9,test_legit_04.png,Legitimate,Legitimate,0.99,Yes
+10,test_legit_05.png,Legitimate,Legitimate,0.99,Yes
